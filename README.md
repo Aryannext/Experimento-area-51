@@ -49,8 +49,8 @@ Cuando un agente de IA (en Claude Code, Cursor, Codex, Gemini CLI, etc.) intenta
 
 ### Paso 1: Clonar el repositorio (rama `argon`) e instalar dependencias
 ```powershell
-git clone -b argon https://github.com/Aryannext/Experimento-rea-51.git
-cd Experimento-rea-51
+git clone -b argon https://github.com/Aryannext/Experimento-area-51.git
+cd Experimento-area-51
 
 # Preparar el motor AST y servidor MCP de Graphify
 cd graphify-8

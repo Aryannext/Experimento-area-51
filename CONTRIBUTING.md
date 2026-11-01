@@ -16,8 +16,8 @@
 
 1. **Haz un Fork** de este repositorio en GitHub y clónalo en la rama `argon`:
    ```bash
-   git clone -b argon https://github.com/Aryannext/Experimento-rea-51.git
-   cd Experimento-rea-51
+   git clone -b argon https://github.com/Aryannext/Experimento-area-51.git
+   cd Experimento-area-51
    ```
 
 2. **Sincroniza el entorno de Graphify (`graphify-8`)**:
